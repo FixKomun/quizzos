@@ -1,8 +1,8 @@
 STUDENT PROJECT
 
-Frontend by Maja Matijević and Filip Franić
-Design by Ana Čačija
-Backend by Josip Blažević
+Frontend by Maja Matijević and Filip Franić,
+Design by Ana Čačija,
+Backend by Josip Blažević,
 
 # Getting Started with Create React App
 
