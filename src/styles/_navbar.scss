@@ -13,12 +13,23 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #f1f3ff;
+  padding: 0;
 }
 
 .navbar2 {
   align-items: start;
   justify-content: space-around;
   min-height: 540px;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #f1f3ff;
+}
+
+.navbar3 {
+  align-items: start;
+  justify-content: space-around;
+  min-height: 450px;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -42,7 +53,9 @@
 }
 
 .FEEDBACK {
-  background-image: url("../img/WaveHeader.svg");
+  background-image: url("../img/wave\ \(2\).png");
+  background-color: #fcfcff;
+  max-height: 460px;
 }
 
 h1 {
@@ -97,4 +110,14 @@ h1 {
   color: #ffffff;
   font-size: 55px;
   margin-top: 30px;
+}
+
+.quiz-done {
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.return {
+  margin-top: 20px;
 }
